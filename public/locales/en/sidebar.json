@@ -1,0 +1,19 @@
+{
+  "sidebar": {
+    "home": "Home",
+    "investmentBasics": "Investment Basics",
+    "whatIsInvesting": "What is Investing",
+    "typesOfInvestments": "Types of Investments",
+    "riskAndReward": "Risk and Reward",
+    "valuationModels": "Valuation Models",
+    "peRatio": "P/E Ratio",
+    "psRatio": "P/S Ratio",
+    "pbRatio": "P/B Ratio",
+    "dcf": "DCF",
+    "ddm": "DDM",
+    "equityResearch": "Equity Research",
+    "maAnalysis": "M&A Analysis",
+    "tools": "Tools",
+    "about": "About"
+  }
+}

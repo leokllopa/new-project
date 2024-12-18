@@ -1,0 +1,47 @@
+{
+  "home": {
+    "welcome": "Welcome to Leo's Investment Blog",
+    "intro": "Your guide to navigating the Canadian and U.S. stock markets.",
+    "about": {
+      "title": "About Leo",
+      "residing": "Leo has been residing in Toronto for nearly four years as a permanent resident of Canada. He possesses extensive expertise in the North American financial markets, with a deep understanding of investment opportunities across diverse sectors in Canada and the United States.",
+      "currentRole": "Currently employed at CIBC, one of the five largest banks in Canada, Leo is dedicated to educating clients on the dynamics of the Canadian and U.S. stock markets. His role focuses on delivering clear and accessible information about market operations, helping clients build a solid foundation of knowledge to better understand investment opportunities and the broader financial environment.",
+      "languages": "Leo is fluent in English, Cantonese, and Mandarin, enabling him to navigate diverse professional and cultural environments effectively. Committed to continuous self-improvement, he is currently expanding his skill set by learning new languages such as Japanese, alongside technical expertise in modern web development.",
+      "experience": "Leo has spent over a decade living in Hong Kong and is currently residing in Canada. His experience living in both Hong Kong and Canada has equipped him with a broad and nuanced understanding of global markets and cultures. This unique international perspective allows Leo to navigate complex financial landscapes with ease, making him an asset in bridging opportunities across regions.",
+      "inspiration": "Leo’s passion for investing is deeply inspired by the principles and strategies of legendary figures like Benjamin Graham and Jesse Livermore. He admires Benjamin Graham for his disciplined approach to value investing, emphasizing the importance of thorough analysis, margin of safety, and long-term thinking. On the other hand, Jesse Livermore's bold, intuitive trading style and his ability to seize opportunities in volatile markets resonate with Leo's appreciation for the dynamic nature of the stock market."
+    }
+  },
+  "valuationModels": {
+    "pb": {
+      "title": "P/B Ratio (Price-to-Book Ratio)",
+      "description": "The P/B ratio compares a company's stock price to its book value per share. It’s often used to evaluate companies in asset-heavy industries, such as banks and manufacturers.",
+
+      "whyImportantHeading": "Why is it important?",
+      "lowPBIntro": "A low P/B ratio",
+      "lowPBText": "might indicate that the stock is undervalued or that the company has hidden value in its assets.",
+      "highPBIntro": "A high P/B ratio",
+      "highPBText": "could mean that the stock is overvalued, or that investors expect significant future growth.",
+
+      "formulaHeading": "Formula:",
+      "formula1": "P/B Ratio = Stock Price ÷ Book Value Per Share",
+      "or": "OR",
+      "formula2": "P/B Ratio = Market Capitalization ÷ Total Book Value",
+
+      "exampleHeading": "Example:",
+      "exampleIntro": "Imagine XYZ Corp.:",
+      "exampleList": {
+        "price": "The company’s stock price is $50.",
+        "bvps": "Its book value per share (BVPS) is $25."
+      },
+      "exampleCalculation": "P/B Ratio = $50 ÷ $25 = 2",
+      "exampleExplanation": "This means investors are willing to pay $2 for every $1 of the company’s book value.",
+
+      "limitationsHeading": "Limitations:",
+      "limitationsList": {
+        "assetHeavy": "The P/B ratio is best suited for asset-heavy companies like banks, not for tech or service companies with minimal tangible assets.",
+        "bookValue": "Book value can be influenced by accounting methods and may not reflect the company’s true worth.",
+        "comprehensive": "It’s essential to use P/B alongside other metrics, such as the P/E ratio, for a comprehensive evaluation."
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "sidebar": {
+    "home": "首頁",
+    "investmentBasics": "投資基礎",
+    "whatIsInvesting": "什麼是投資",
+    "typesOfInvestments": "投資類型",
+    "riskAndReward": "風險與回報",
+    "valuationModels": "估值模型",
+    "peRatio": "本益比",
+    "psRatio": "市銷率",
+    "pbRatio": "市淨率",
+    "dcf": "貼現現金流法",
+    "ddm": "股利折現模型",
+    "equityResearch": "股權研究",
+    "maAnalysis": "併購分析",
+    "tools": "工具",
+    "about": "關於"
+  }
+}

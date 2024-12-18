@@ -1,0 +1,19 @@
+{
+  "sidebar": {
+    "home": "ホーム",
+    "investmentBasics": "投資の基本",
+    "whatIsInvesting": "投資とは",
+    "typesOfInvestments": "投資の種類",
+    "riskAndReward": "リスクとリターン",
+    "valuationModels": "バリュエーションモデル",
+    "peRatio": "PER (株価収益率)",
+    "psRatio": "PSR (株価売上高比率)",
+    "pbRatio": "PBR (株価純資産倍率)",
+    "dcf": "DCF (割引キャッシュフロー)",
+    "ddm": "DDM (配当割引モデル)",
+    "equityResearch": "株式リサーチ",
+    "maAnalysis": "M&A 分析",
+    "tools": "ツール",
+    "about": "概要"
+  }
+}

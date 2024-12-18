@@ -1,0 +1,47 @@
+{
+  "home": {
+    "welcome": "歡迎來到 Leo 的投資博客",
+    "intro": "引導您了解加拿大和美國股市。",
+    "about": {
+      "title": "關於 Leo",
+      "residing": "Leo 作為加拿大的永久居民，已在多倫多居住近四年。他在北美金融市場擁有廣泛的專業知識，深刻了解加拿大和美國各個領域的投資機會。",
+      "currentRole": "目前在加拿大五大銀行之一的 CIBC 任職，Leo 致力於向客戶教育加拿大和美國股市的運作原理。他的工作重點是提供清晰且易於理解的市場運作資訊，幫助客戶建立堅實的知識基礎，更好地理解投資機會和更廣泛的金融環境。",
+      "languages": "Leo 精通英語、粵語和普通話，使他能夠在多元化的專業和文化環境中有效地溝通。他致力於不斷自我提升，目前正在學習日語等新語言，並擴展其在現代網頁開發方面的技術專長，包括掌握 React、JSX 和 SQL 等技術。",
+      "experience": "Leo 曾在香港生活十多年，目前居住在加拿大。他在香港和加拿大的生活經歷，使他對全球市場和文化有了廣泛而深刻的理解。這種獨特的國際視角讓 Leo 能夠輕鬆駕馭複雜的金融格局，使他成為跨地區機遇的橋樑。",
+      "inspiration": "Leo 對投資的熱情深受傳奇人物如 Benjamin Graham 和 Jesse Livermore 的原則和策略啟發。他敬佩 Benjamin Graham 在價值投資中的嚴謹方法，強調徹底分析、安全邊際和長期思維的重要性。同時，Jesse Livermore 大膽且直覺的交易風格以及在波動市場中抓住機會的能力，也讓 Leo 對股市的動態特性深表欣賞。"
+    }
+  },
+  "valuationModels": {
+    "pb": {
+      "title": "P/B 比率（市淨率）",
+      "description": "P/B 比率將公司股價與每股帳面價值進行比較，常用於評估資產密集型產業（如銀行和製造業）的公司。",
+
+      "whyImportantHeading": "為何重要？",
+      "lowPBIntro": "較低的 P/B 比率",
+      "lowPBText": "可能意味該股票被低估，或公司資產中隱藏了潛在價值。",
+      "highPBIntro": "較高的 P/B 比率",
+      "highPBText": "可能表示該股票被高估，或投資人預期未來有顯著的成長。",
+
+      "formulaHeading": "公式：",
+      "formula1": "P/B 比率 = 股價 ÷ 每股帳面價值",
+      "or": "或",
+      "formula2": "P/B 比率 = 市值 ÷ 總帳面價值",
+
+      "exampleHeading": "範例：",
+      "exampleIntro": "以 XYZ 公司為例：",
+      "exampleList": {
+        "price": "該公司股價為 50 美元。",
+        "bvps": "其每股帳面價值（BVPS）為 25 美元。"
+      },
+      "exampleCalculation": "P/B 比率 = $50 ÷ $25 = 2",
+      "exampleExplanation": "這表示投資者願意為公司帳面價值中的每1美元支付2美元。",
+
+      "limitationsHeading": "限制：",
+      "limitationsList": {
+        "assetHeavy": "P/B 比率特別適用於資產密集型公司（如銀行），對於資產較少的科技或服務型公司則不適用。",
+        "bookValue": "帳面價值可能受會計方法影響，未必能反映公司真實價值。",
+        "comprehensive": "應將 P/B 與其他指標（如 P/E 比率）結合使用，以獲得更全面的評估。"
+      }
+    }
+  }
+}
